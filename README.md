@@ -1,7 +1,7 @@
 # Adv-OOD-with-ViT
 Advanced OOD detection, leveraging ViT with attention based adversarial attack
 
-This experiance is greatly influenced by https://github.com/Simcs/OOD-with-ViT
+This experience is greatly influenced by https://github.com/Simcs/OOD-with-ViT
 
 
 
