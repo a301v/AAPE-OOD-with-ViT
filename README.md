@@ -24,7 +24,7 @@ This experiment is heavily based on the approach outlined in https://github.com/
 
 4. cifar10_train_adversarial_stat.py
    1) get penultimate feature vectors of cifar-10 attention-adversarial train datset, created by 1.
-   2) get mean and precision (inverse Cov matrix) of cifar-10 train dataset.
+   2) get mean and precision (inverse of covariance matrix) of cifar-10 train dataset.
   
 5. cifar10_test_adversarial_mahalanobis.py
    1) get penultimate feature vectors of cifar-10 attention-adversarial test datset, created by 2.
