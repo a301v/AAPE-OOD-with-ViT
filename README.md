@@ -9,6 +9,7 @@ Department of Statistical Data Science, University of Seoul, Jonghyeok Ahn
 Department of Statistical Data Science, University of Seoul, Minho Song
 
 
+# Descriptions
 1. cifar10_train_adversarial_image.py
    1) this program will make cifar-10 based train dataset.
    2) get attention map (made by attention rollout mechanism), using cifar-10 pre-trained ViT.
