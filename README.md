@@ -4,9 +4,12 @@ Advanced OOD detection, leveraging ViT with attention based adversarial attack
 This experiment is heavily based on the approach outlined in https://github.com/Simcs/OOD-with-ViT
 
 # Co-workers
-Department of Statistical Data Science, University of Seoul, Leesang Youn
-Department of Statistical Data Science, University of Seoul, Jonghyeok Ahn
-Department of Statistical Data Science, University of Seoul, Minho Song
+Department of Statistical Data Science, University of Seoul, Leesang Youn  
+
+Department of Statistical Data Science, University of Seoul, Jonghyeok Ahn  
+
+Department of Statistical Data Science, University of Seoul, Minho Song  
+
 
 
 # Descriptions
